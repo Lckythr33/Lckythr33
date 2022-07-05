@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 
+### My name is Zeeshawn Marshall and i'm a Software Engineer! I'm from Los Angeles, California.
+### I currently work at Career Karma as a SE Career Coach. However through my last role at 
+### http://pyrodrone,com and my intensive training at Coding Dojo, Plus years of freelance work
+### I have gained the experience to become a proficient Software Engineer who knows what works
+### and what doesn't. 
 
 <!--
 **Lckythr33/Lckythr33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,7 +5,7 @@ I currently work at Career Karma as a SE Career Coach. However through my last r
 I have gained the experience to become a proficient problem solver who knows what works
 and what doesn't. 
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 

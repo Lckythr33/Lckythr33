@@ -5,12 +5,12 @@ I currently work at Career Karma as a SE Career Coach. However through my last r
 I have gained the experience to become a proficient problem solver who knows what works
 and what doesn't. 
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2|width=100px]][2].
 
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/Lckythr33/Lckythr33/master/61109.png|width=100px
+[2.2]: https://raw.githubusercontent.com/Lckythr33/Lckythr33/master/61109.png
 
 <!-- Links to your social media accounts -->
 
